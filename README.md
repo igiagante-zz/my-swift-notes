@@ -1,4 +1,4 @@
 ## Here you will find a resume of the swift book and some notes. 
 
-![alt text](./images/swift.png "Apple Swift Logo")
+![Apple Swift Logo](./images/swift_logo.png "Apple Swift Logo")
 
