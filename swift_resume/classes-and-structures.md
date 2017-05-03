@@ -2,7 +2,7 @@
 A value type is a type whose value is copied when it is assigned to a variable or constant, or when it is passed to a function.
 
 ####Classes Are References Types
-Unlike value types, __reference types__ are not __copied__ when they are assigned to a variable or constant, or when they are passed to a function. Rather than a copy, a reference to the same existing instance is used instead.
+Unlike value types, *reference types* are not *copied* when they are assigned to a variable or constant, or when they are passed to a function. Rather than a copy, a reference to the same existing instance is used instead.
 
 ####Identity Operators
 

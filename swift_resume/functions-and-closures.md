@@ -1,5 +1,5 @@
 ##### Function Argument Labels and Parameter Names
-Each function parameter has both an __argument label__ and a __parameter name__.
+Each function parameter has both an *argument label* and a *parameter name*.
 
 ###### Omiting argument labels
 it should write an underscore (_) instead of an explicit argument label for the parameter.

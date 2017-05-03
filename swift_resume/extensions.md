@@ -46,4 +46,5 @@ Extensions can add new initializers to existing types. This enables you to exten
 	}
 ```
 
-Instance methods added with an extension can also modify (or mutate) the instance itself. Structure and enumeration methods that modify self or its properties must mark the instance method as **mutating**, just like mutating methods from an original implementation.
+Instance methods added with an extension can also modify (or mutate) the instance itself. Structure and enumeration methods that modify self or its properties must mark the instance method as **mutating**, just like mutating methods from an original implementation. 
+
